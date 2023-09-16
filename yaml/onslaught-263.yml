@@ -1,0 +1,112 @@
+---
+object: card
+id: da6efd31-ab5e-46ff-80d2-9382438e302c
+oracle_id: a0abd957-01a0-4aa9-8fc8-0e6840d21606
+multiverse_ids:
+- 41172
+mtgo_id: 18161
+mtgo_foil_id: 18162
+tcgplayer_id: 10664
+cardmarket_id: 1894
+name: Explosive Vegetation
+lang: en
+released_at: '2002-10-07'
+uri: https://api.scryfall.com/cards/da6efd31-ab5e-46ff-80d2-9382438e302c
+scryfall_uri: https://scryfall.com/card/ons/263/explosive-vegetation?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/a/da6efd31-ab5e-46ff-80d2-9382438e302c.jpg?1562947030
+  normal: https://cards.scryfall.io/normal/front/d/a/da6efd31-ab5e-46ff-80d2-9382438e302c.jpg?1562947030
+  large: https://cards.scryfall.io/large/front/d/a/da6efd31-ab5e-46ff-80d2-9382438e302c.jpg?1562947030
+  png: https://cards.scryfall.io/png/front/d/a/da6efd31-ab5e-46ff-80d2-9382438e302c.png?1562947030
+  art_crop: https://cards.scryfall.io/art_crop/front/d/a/da6efd31-ab5e-46ff-80d2-9382438e302c.jpg?1562947030
+  border_crop: https://cards.scryfall.io/border_crop/front/d/a/da6efd31-ab5e-46ff-80d2-9382438e302c.jpg?1562947030
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Search your library for up to two basic land cards, put them onto the
+  battlefield tapped, then shuffle.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 914a6c6d-cb3b-45e8-a2db-9978a2339faf
+set: ons
+set_name: Onslaught
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/914a6c6d-cb3b-45e8-a2db-9978a2339faf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aons&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ons?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/da6efd31-ab5e-46ff-80d2-9382438e302c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa0abd957-01a0-4aa9-8fc8-0e6840d21606&unique=prints
+collector_number: '263'
+digital: false
+rarity: uncommon
+flavor_text: Torching Krosa would be pointless. It grows faster than it burns.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Avon
+artist_ids:
+- 798f3932-30e0-4420-aa3f-db4d613f89ca
+illustration_id: '068c66d6-70de-41a6-947a-ee97f2b87671'
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 796
+penny_rank: 640
+prices:
+  usd: '0.55'
+  usd_foil: '13.41'
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: '3.00'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=41172
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Explosive+Vegetation&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Explosive+Vegetation&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Explosive+Vegetation
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/10664?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Explosive+Vegetation&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/18161?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
